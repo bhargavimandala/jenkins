@@ -1,1 +1,1 @@
-sudo yum install docker-ce
+sh sudo yum install docker-ce
